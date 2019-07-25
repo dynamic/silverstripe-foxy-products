@@ -1,6 +1,6 @@
 <?php
 
-namespace Dynavap\Test\Page;
+namespace Dynamic\Foxy\Products\Test\Page;
 
 use Dynamic\Foxy\Products\Page\ShippableProduct;
 use SilverStripe\Dev\SapphireTest;

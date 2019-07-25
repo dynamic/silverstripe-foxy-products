@@ -38,12 +38,6 @@
             "dev-master": "1.x-dev"
         }
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@github.com:dynamic/silverstripe-products.git"
-        }
-    ],
     "minimum-stability": "dev",
     "prefer-stable": true
 }
