@@ -2,7 +2,7 @@
 
 namespace Dynamic\Foxy\Products\Extension;
 
-use Dynamic\Foxy\Products\Page\ShippableProduct;
+use Dynamic\Products\Page\Product;
 use SilverStripe\ORM\DataExtension;
 
 /**
@@ -15,6 +15,6 @@ class ProductOptionDataExtension extends DataExtension
      * @var array
      */
     private static $belongs_many_many = [
-        'ShippableProducts' => ShippableProduct::class,
+        'Products' => Product::class,
     ];
 }
