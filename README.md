@@ -2,6 +2,17 @@
 
 Use silverstripe-products for product page types using silverstripe-foxy
 
+[![Build Status](https://travis-ci.org/dynamic/silverstripe-foxy-products.svg?branch=master)](https://travis-ci.org/dynamic/silverstripe-foxy-products)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/dynamic/silverstripe-foxy-products/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/dynamic/silverstripe-foxy-products/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/dynamic/silverstripe-foxy-products/badges/build.png?b=master)](https://scrutinizer-ci.com/g/dynamic/silverstripe-foxy-products/build-status/master)
+[![codecov](https://codecov.io/gh/dynamic/silverstripe-foxy-products/branch/master/graph/badge.svg)](https://codecov.io/gh/dynamic/silverstripe-foxy-products)
+
+[![Latest Stable Version](https://poser.pugx.org/dynamic/silverstripe-foxy-products/v/stable)](https://packagist.org/packages/dynamic/silverstripe-foxy-products)
+[![Total Downloads](https://poser.pugx.org/dynamic/silverstripe-foxy-products/downloads)](https://packagist.org/packages/dynamic/silverstripe-foxy-products)
+[![Latest Unstable Version](https://poser.pugx.org/dynamic/silverstripe-foxy-products/v/unstable)](https://packagist.org/packages/dynamic/silverstripe-foxy-products)
+[![License](https://poser.pugx.org/dynamic/silverstripe-foxy-products/license)](https://packagist.org/packages/dynamic/silverstripe-foxy-products)
+
+
 ## Requirements
 
 * SilverStripe ^4.0
