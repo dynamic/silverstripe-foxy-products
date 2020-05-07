@@ -1,3 +1,7 @@
+Dynamic\Products\Page\ProductCategory:
+  one:
+    Title: 'Product Category One'
+
 Dynamic\Foxy\Products\Page\ShippableProduct:
   one:
     Title: 'Product One'
